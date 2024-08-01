@@ -2,7 +2,7 @@
 
 ![Turbo Coder](./hardware.jpg)
 
-Turbo Coder is a simple hardware device that enables you to quickly accept Copilot suggestions in VSCode. It acts as a USB keyboard and sends CTRL+Right Arrow on single button press and Tab on double press.
+Turbo Coder is a simple hardware device that enables you to quickly accept Copilot suggestions in VSCode. It acts as a USB keyboard and sends CTRL+Right Arrow on single button press and Tab on long press.
 
 ## Hardware
 
